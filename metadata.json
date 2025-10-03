@@ -1,0 +1,7 @@
+{
+  "name": "nasrettin Hoca",
+  "description": "nasrettin Hoca İnteraktif Öğrenme modeli",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
